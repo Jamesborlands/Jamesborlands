@@ -36,20 +36,8 @@ A file shelf in the Mac notch. Drag a file up, park it, drag it out wherever it 
 <a href="https://github.com/Jamesborlands/ledge"><img src="https://raw.githubusercontent.com/Jamesborlands/ledge/main/docs/hero.png" alt="Ledge file shelf"></a>
 
 </td>
-<td width="50%" valign="top">
-
-**[tv-vibehack](https://github.com/Jamesborlands/tv-vibehack)**<br>
-Your TV, minus the ads. Debloats any Android TV over Wi-Fi and swaps in a clean,
-tvOS-style launcher. Built in an afternoon with Claude Code.
-
-<a href="https://github.com/Jamesborlands/tv-vibehack"><img src="https://raw.githubusercontent.com/Jamesborlands/tv-vibehack/main/docs/stock-vs-new-side.jpg" alt="tv-vibehack before and after"></a>
-
-</td>
 </tr>
 </table>
-
-Also: [Luthor](https://github.com/Jamesborlands/law-firm-RAG-system), a RAG system that
-lets lawyers chat with their firm's documents (Pinecone + Streamlit).
 
 ### What I work with
 
