@@ -1,7 +1,7 @@
 ## Hi, I'm James 👋
 
 AI Strategist at [Cadre AI](https://cadreai.com) in San Diego. I build things with AI: desk
-gadgets, Mac apps, and tools that make everyday stuff a little nicer.
+gadgets, Mac apps, hacked hardware, and tools that make everyday stuff a little nicer.
 
 ### Things I've built
 
@@ -34,6 +34,15 @@ tuned to read like Surfline.
 A file shelf in the Mac notch. Drag a file up, park it, drag it out wherever it needs to go.
 
 <a href="https://github.com/Jamesborlands/ledge"><img src="https://raw.githubusercontent.com/Jamesborlands/ledge/main/docs/hero.png" alt="Ledge file shelf"></a>
+
+</td>
+<td width="50%" valign="top">
+
+**[Kitchen Frame](https://github.com/Jamesborlands/kitchen-frame)**<br>
+A cheap Amazon photo frame, rooted and turned into a family kitchen display: watercolour
+weather, everyone's clocks, the family calendar, and photos and messages sent over WhatsApp.
+
+<a href="https://github.com/Jamesborlands/kitchen-frame"><img src="https://raw.githubusercontent.com/Jamesborlands/kitchen-frame/main/docs/readme/hero.png" alt="Kitchen frame display with weather, family clocks, a photo and a message board"></a>
 
 </td>
 </tr>
