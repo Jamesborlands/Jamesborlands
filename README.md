@@ -19,7 +19,7 @@ through an MCP server on Cloudflare.
 </td>
 <td width="50%" valign="top">
 
-**[SwellStrip](https://github.com/Jamesborlands/swellstrip)** + **[Swellbar](https://github.com/Jamesborlands/swellbar)**<br>
+**[SwellStrip](https://github.com/Jamesborlands/swellstrip)** + **[SwellBar](https://github.com/Jamesborlands/swellbar)**<br>
 The surf report on an e-paper strip on my desk, and in my Mac menu bar. Free buoy data,
 tuned to read like Surfline.
 
