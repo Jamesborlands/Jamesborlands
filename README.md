@@ -1,8 +1,6 @@
 ## Hi, I'm James 👋
 
-AI Strategist at [Cadre AI](https://cadreai.com) in San Diego. I build things with AI: desk
-gadgets, Mac apps, hacked hardware, and tools that make everyday stuff a little nicer.
-
+AI Strategist at [Cadre AI](https://cadreai.com) in San Diego. I build things with AI.
 ### Things I've built
 
 <table>
@@ -47,8 +45,3 @@ weather, everyone's clocks, the family calendar, and photos and messages sent ov
 </td>
 </tr>
 </table>
-
-### What I work with
-
-Swift and SwiftUI · ESP32 / Arduino / PlatformIO · TypeScript on Cloudflare Workers ·
-Python · MCP servers · Claude Code
